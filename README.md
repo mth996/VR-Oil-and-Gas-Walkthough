@@ -13,4 +13,4 @@ Quiz1
 
 This script is responsible for checking the knowledge of the player after doing the tutorial by asking few questions related to the oil rig
 
-Trailer link:
+Trailer link: https://drive.google.com/file/d/18c_SDkBZ417K-DtXDq44BnlJSCWhTiEF/view?usp=sharing
